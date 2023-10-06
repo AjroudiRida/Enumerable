@@ -84,6 +84,10 @@ Example:
 
 👤 **Author1**
 
+- GitHub: [@ishimwepati](https://github.com/ishimwepati)
+
+👤 **Author2**
+
 - GitHub: [@AjroudiRida](https://github.com/ajroudirida)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
