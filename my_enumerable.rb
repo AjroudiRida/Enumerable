@@ -14,5 +14,4 @@ module MyEnumerable
     each { |item| new_res << item if yield(item) }
     new_res.join(', ')
   end
-  
 end
